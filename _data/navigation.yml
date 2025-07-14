@@ -3,6 +3,6 @@
 - name: About
   link: /about/
 - name: Blog
-  link: blog.kristiansyrjanen.com
+  url: blog.kristiansyrjanen.com
 #- name: Hire me
 #  link: /contact/

@@ -2,7 +2,7 @@
   link: /
 - name: About
   link: /about/
-- name: I Am
+- name: Blog
   link: https://iam.kristiansyrjanen.com
   external: true
 #- name: Hire me
